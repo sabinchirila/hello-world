@@ -1,3 +1,3 @@
 # hello-world - Edited
-more text edited
+more text edited again
 Familiarizing with Git
